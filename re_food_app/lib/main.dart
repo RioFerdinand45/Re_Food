@@ -145,7 +145,7 @@ class OnboardingScreen extends StatelessWidget {
             const Spacer(),
             ClipRRect(
                 borderRadius: BorderRadius.circular(28),
-                child: Image.asset('assets/images/vegetables.png',
+                child: Image.asset('assets/images/onboard.png',
                     height: 340, width: double.infinity, fit: BoxFit.cover)),
             const SizedBox(height: 30),
             Container(
